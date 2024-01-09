@@ -394,6 +394,19 @@ margin-bottom: 20px;
     width: 325px;
     height: 325px;
     margin-bottom: 20px;
+
+
+
+
+    opacity: 1;
+  display: block;
+  height: auto;
+  transition: .7s ;
+
+}
+
+.grid-item img:hover{
+    opacity: 0.3;
 }
 
 /* newsleter section */
